@@ -723,8 +723,9 @@ section {
 .footer-bottom {
     background: #050505;
     text-align: center;
-    padding: 25px 0;
+    padding: 12px 0;
     border-top: 1px solid #111;
+    font-size: 0.85rem;
 }
 
 @media (max-width: 768px) {
